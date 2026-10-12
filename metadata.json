@@ -1,0 +1,6 @@
+{
+  "name": "The GIRL HOUSE - Fashion Accessories",
+  "description": "Boutique en ligne officielle The GIRL HOUSE (@girll__house__). Sabots Birkenstock Boston Clogs, vestes oversize, bijoux dorés & abayas au Maroc. Livraison partout au Maroc.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
